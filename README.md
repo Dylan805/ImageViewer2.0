@@ -9,6 +9,7 @@ Add these filters:
 * Invert  
 * Smooth  
 * Solarize  
+* Edge Detection  
 * YOUR OWN DESIGN  
 
 Remember to add these to the Filter <List> so they are added to the menu.  
